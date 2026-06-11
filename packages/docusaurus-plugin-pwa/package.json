@@ -20,7 +20,7 @@
     "babel-loader": "^8.2.1",
     "clsx": "^1.1.1",
     "core-js": "^2.6.5",
-    "joi": "^17.2.1",
+    "joi": "^18.2.1",
     "terser-webpack-plugin": "^4.1.0",
     "webpack": "^4.44.1",
     "webpack-merge": "^4.2.2",
