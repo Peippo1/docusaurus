@@ -29,7 +29,7 @@
     "docusaurus-rename-version": "./lib/rename-version.js"
   },
   "dependencies": {
-    "@babel/core": "^7.12.3",
+    "@babel/core": "^8.0.1",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
     "@babel/polyfill": "^7.12.1",
@@ -62,7 +62,7 @@
     "markdown-toc": "^1.2.0",
     "mkdirp": "^0.5.1",
     "portfinder": "^1.0.28",
-    "postcss": "^7.0.23",
+    "postcss": "^8.5.19",
     "prismjs": "^1.22.0",
     "react": "^16.8.4",
     "react-dev-utils": "^9.1.0",
