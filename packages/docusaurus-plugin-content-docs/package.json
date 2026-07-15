@@ -19,9 +19,9 @@
   "license": "MIT",
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.0-alpha.69",
-    "@types/picomatch": "^2.2.1",
+    "@types/picomatch": "^4.0.3",
     "commander": "^5.0.0",
-    "picomatch": "^2.1.1"
+    "picomatch": "^4.0.5"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-alpha.69",
@@ -34,7 +34,7 @@
     "fs-extra": "^9.0.1",
     "globby": "^10.0.1",
     "import-fresh": "^3.2.2",
-    "joi": "^17.2.1",
+    "joi": "^18.2.3",
     "loader-utils": "^1.2.3",
     "lodash": "^4.17.19",
     "lodash.flatmap": "^4.5.0",
